@@ -1,3 +1,4 @@
+![code-monkey](/code-monkey-banner.jpg)
 ### Hi there 👋
 
 <!--
