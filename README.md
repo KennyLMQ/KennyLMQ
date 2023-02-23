@@ -1,5 +1,4 @@
 ![code-monkey](/code-monkey-banner.jpg)
-### Hi there 👋
 
 <!--
 **KennyLMQ/KennyLMQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
